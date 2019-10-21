@@ -1,0 +1,28 @@
+p,head,li,h4 {
+  color: red;
+  width: 100px;
+  border: 1px solid black;
+}
+
+html {
+  background-color: #00539F;
+}
+
+body {
+  width: 300px;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+.center {
+  margin: auto;
+  background: lime;
+  width: 66%;
+}
+
+.outside {
+  margin: auto;
+  background: cyan;
+  width: 66%;
+}
